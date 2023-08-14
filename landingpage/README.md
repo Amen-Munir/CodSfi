@@ -39,12 +39,16 @@ cd beyond-tours-website
 2. Open the index.html file in your web browser.
 
 ##Usage
+
+
 Feel free to customize the content, images, and styles to make this website your own. 
-he HTML files are in the root directory, and the CSS styles are in the style.css file.
+The HTML files are in the root directory, and the CSS styles are in the style.css file.
 
 To add or modify images, update the paths in the HTML and CSS files to point to your images.
 
 ##Contributing
+
+
 Contributions are welcome! If you find any issues or want to improve the website, feel free to submit a pull request. 
 Please ensure that your changes align with the existing design and features of the website.
 
