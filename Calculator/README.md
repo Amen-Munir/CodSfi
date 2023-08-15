@@ -2,7 +2,9 @@
 
 This is a simple calculator web application built using HTML, CSS, and JavaScript.
 
-![cal](https://github.com/Amen-Munir/CodSoft/assets/121969659/5e9e8ce8-3105-469e-a2c0-6478dea68078)
+
+
+![cal](https://github.com/Amen-Munir/CodSoft/assets/121969659/42ea755a-4030-4f13-af86-f0afdcee4b9e)
 
 
 ## Features
